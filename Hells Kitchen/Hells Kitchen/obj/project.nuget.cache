@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbU6HInUvSn9xTLfFf0eJMvXKO1aYccRA8rmL7MM19XLuffipJosLo1HQR+57ilkXeRy33N6f39sv+01c+RySg==",
+  "success": true,
+  "projectFilePath": "D:\\Mahmoud Abu Khatro\\Desktop\\New Folder\\New Folder\\Hells Kitchen\\Hells Kitchen\\Hells Kitchen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahmoud Abu Khatro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Mahmoud Abu Khatro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Mahmoud Abu Khatro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mahmoud Abu Khatro\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
